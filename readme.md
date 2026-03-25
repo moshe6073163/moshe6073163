@@ -11,6 +11,10 @@
   <a href="mailto:moshe6073163@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="25" />
   </a>
+  <!-- link to my private site -->
+  <a href="https://mbs-apps.com">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm4zamE4czV0amo4dDhpYmxtczRsa25jZ3J3eXkyaGt0NTgwZnRkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kc19GfzuSOWhnCeuPB/giphy.gif" alt="Website Preview" height="25" style="border-radius:12px;box-shadow:0 4px 16px rgba(0,0,0,0.10);margin-top:8px;margin-bottom:6px;" />
+  </a>
 </div>
 
 ###
